@@ -143,6 +143,5 @@ curl -X POST http://localhost:3001/api/chat \
 
 ---
 
-## 📄 License
 
-This project is licensed under the ISC License.
+
